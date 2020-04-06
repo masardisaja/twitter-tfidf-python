@@ -4,7 +4,7 @@ Mengukur bobot kata di dalam tweet dengan metode TF-IDF
 Untuk menggunakan script ini yang harus dilakukan adalah:
 1. Install Python 3.8 yang dapat didownload dari https://www.python.org/downloads/
 2. Setelah Python terinstall, selanjutnya install modul-modul berikut:
-	a. pandas
+   a. pandas
    b. re
    c. math
    d. json
