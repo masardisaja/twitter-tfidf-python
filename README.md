@@ -4,7 +4,7 @@ Mengukur bobot kata di dalam tweet dengan metode TF-IDF
 Untuk menggunakan script ini yang harus dilakukan adalah:
 1. Install Python 3.8 yang dapat didownload dari https://www.python.org/downloads/
 2. Setelah Python terinstall, selanjutnya install modul-modul berikut:
-   a. pandas
+	a. pandas
    b. re
    c. math
    d. json
@@ -16,10 +16,10 @@ Untuk menggunakan script ini yang harus dilakukan adalah:
    Kemudian buat folder baru dengan nama "output" di dalam folder tersebut.
    Sehingga strukturnya adalah sebagai berikut:
    C:\Praktek_Python
-      |-- output
-      |-- read_exceltweet.py
-      |-- stopword_list_tala.txt
-      |-- twitter_data.xlsx
+		|-- output
+		|-- read_exceltweet.py
+		|-- stopword_list_tala.txt
+		|-- twitter_data.xlsx
  4. Aplikasi sudah siap dijalankan melalui command prompt.
     a. buka Command Prompt
     b. Masuk ke folder yang telah dibuat pada nomor 3
@@ -34,8 +34,3 @@ Untuk menggunakan script ini yang harus dilakukan adalah:
        C:\Praktek_Python> _
     d. Setelah proses selesai, silakan cek folder output untuk melihat hasil-hasil proses tsb.
        Agar lebih jelas silakan sambil dibaca penjelasan yang disertakan di dalam script read_exceltweet.py
-
-
-    
-    
-   
