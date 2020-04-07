@@ -9,6 +9,7 @@ Untuk menggunakan script ini yang harus dilakukan adalah:
    c. math
    d. json
    e. csv
+   f. xlrd
    [Cara install modul melalui command prompt ketik "pip install nama_modul"]
 3. Setelah semua modul terinstall, siapkan sebuah folder untuk aplikasi ini.
    Misalnya C:\Praktek_Python
