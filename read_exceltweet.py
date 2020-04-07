@@ -36,7 +36,7 @@ def stopword():
 
 #Fungsi change case (ubah text menjadi huruf kecil semua)
 def change_case(txt):
-	return(txt.lower())
+	return(str(txt).lower())
 
 #Fungsi remove linebreaks (mengubah newline pada text menjadi spasi sehingga tweet menjadi 1 baris)
 def rem_linebreak(txt):
