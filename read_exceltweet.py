@@ -24,7 +24,7 @@ def write_csv(dict,filename):
 		
 #Fungsi membuat list stopword dari file txt
 def stopword():
-	file = open('tokens/stopword_list_tala.txt', 'r') 
+	file = open('stopword_list_tala.txt', 'r') 
 	Lines = file.readlines() 
 	listStopword = []
 	
